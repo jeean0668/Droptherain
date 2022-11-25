@@ -45,9 +45,10 @@ class Rain(object):
         print(f"changed stage : {stage}")
         # select the current stage
         if stage == 1:
-            ret = glob.glob("/Users/gimjian/3학년2학기/visualArt/final_project/asset/image/ten/*.jpeg")
+            ret = glob.glob("/Users/gimjian/3학년2학기/visualArt/final_project/asset/image/ten/*.png")
+            
         elif stage == 2:
-            ret = glob.glob("/Users/gimjian/3학년2학기/visualArt/final_project/asset/image/twenty/*.jpeg")
+            ret = glob.glob("/Users/gimjian/3학년2학기/visualArt/final_project/asset/image/twenty/*.png")
         return ret
 
     def randomly_selected_person(self, filenames):
