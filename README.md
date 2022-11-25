@@ -1,12 +1,9 @@
 
 2022 second semester visual art final project
 ==============================================
-
-1. 주제 : 하늘에서 물건이 떨어진다.
-
-
-
-
+하늘에서 물건이 떨어진다.
+------------------
+* * *
 2. 해야할 것들 :
 > 1. rain object image 가공하기(완)
 > 2. AI로 background image 만들어서 바꿔주기
